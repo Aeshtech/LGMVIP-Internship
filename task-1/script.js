@@ -52,7 +52,7 @@ document.querySelectorAll(".box-img img").forEach((img)=>{
 
 var signup  =  document.querySelector("#signup");
 var  signup_page = document.querySelector(".signup-section");
-var signup_box = document.querySelector(".signup-box");
+var signup_box = document.querySelector(".signup-container");
 var signin  =  document.querySelector("#signin");
 
 signup.addEventListener("click",()=>{
